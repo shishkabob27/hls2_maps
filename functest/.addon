@@ -1,7 +1,7 @@
 {
   "Title": "functest",
   "Type": "map",
-  "Org": "local",
+  "Org": "xenthio",
   "Ident": "functest",
   "Schema": 1,
   "HasAssets": true,
