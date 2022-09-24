@@ -1,5 +1,5 @@
 {
-  "Title": "crossfire",
+  "Title": "Crossfire",
   "Type": "map",
   "Org": "shishkabob",
   "Ident": "crossfire",
@@ -11,6 +11,10 @@
   "CodePath": null,
   "RootNamespace": null,
   "Metadata": {
-    "ProjectTemplate": null
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "shishkabob.hls2",
+      "facepunch.dm98"
+    ]
   }
 }
