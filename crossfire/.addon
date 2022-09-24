@@ -1,7 +1,7 @@
 {
   "Title": "crossfire",
   "Type": "map",
-  "Org": "local",
+  "Org": "shishkabob",
   "Ident": "crossfire",
   "Schema": 1,
   "HasAssets": true,
