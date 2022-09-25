@@ -1,0 +1,16 @@
+{
+  "Title": "hls2test",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "hls2test",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null
+  }
+}
