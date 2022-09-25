@@ -1,0 +1,19 @@
+{
+  "Title": "Valve Intro",
+  "Type": "map",
+  "Org": "shishkabob",
+  "Ident": "valve",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "shishkabob.hls2"
+    ]
+  }
+}
