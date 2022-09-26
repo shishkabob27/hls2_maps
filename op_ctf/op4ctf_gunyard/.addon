@@ -1,0 +1,19 @@
+{
+  "Title": "op4ctf_gunyard",
+  "Type": "map",
+  "Org": "shishkabob",
+  "Ident": "op4ctf_gunyard",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "shishkabob.hls2"
+    ]
+  }
+}
