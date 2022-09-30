@@ -1,5 +1,7 @@
 {
+  "cloud_packages": [],
   "game_packages": [
+    "shishkabob.hls2",
     "facepunch.dm98",
     "matt.ttt"
   ]
