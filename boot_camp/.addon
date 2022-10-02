@@ -11,6 +11,9 @@
   "CodePath": null,
   "RootNamespace": null,
   "Metadata": {
-    "ProjectTemplate": null
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "shishkabob.hls2"
+    ]
   }
 }
