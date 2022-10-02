@@ -1,0 +1,16 @@
+{
+  "Title": "Boot Camp",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "boot_camp",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null
+  }
+}
