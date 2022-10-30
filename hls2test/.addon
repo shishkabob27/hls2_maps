@@ -3,6 +3,7 @@
   "Type": "map",
   "Org": "local",
   "Ident": "hls2test",
+  "Tags": null,
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",

@@ -3,6 +3,7 @@
   "Type": "map",
   "Org": "shishkabob",
   "Ident": "op4ctf_gunyard",
+  "Tags": null,
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
