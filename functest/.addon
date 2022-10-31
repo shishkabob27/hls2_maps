@@ -3,6 +3,7 @@
   "Type": "map",
   "Org": "xenthio",
   "Ident": "functest",
+  "Tags": null,
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
