@@ -1,7 +1,5 @@
 {
-  "cloud_packages": [
-    "shishkabob.hls2#9371"
-  ],
+  "cloud_packages": [],
   "game_packages": [
     "shishkabob.hls2"
   ]
