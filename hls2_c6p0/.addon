@@ -1,0 +1,20 @@
+{
+  "Title": "Blast Pit",
+  "Type": "map",
+  "Org": "shishkabob",
+  "Ident": "hls2_c6p0",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "shishkabob.hls2"
+    ]
+  }
+}

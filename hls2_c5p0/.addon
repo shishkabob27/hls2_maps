@@ -3,6 +3,7 @@
   "Type": "map",
   "Org": "shishkabob",
   "Ident": "hls2_c5p0",
+  "Tags": null,
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
@@ -11,6 +12,9 @@
   "CodePath": null,
   "RootNamespace": null,
   "Metadata": {
-    "ProjectTemplate": null
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "shishkabob.hls2"
+    ]
   }
 }

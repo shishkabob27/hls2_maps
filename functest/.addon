@@ -1,0 +1,17 @@
+{
+  "Title": "functest",
+  "Type": "map",
+  "Org": "xenthio",
+  "Ident": "functest",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null
+  }
+}
