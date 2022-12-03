@@ -2,8 +2,7 @@
   "cloud_packages": [],
   "game_packages": [
     "shishkabob.hls2",
-    "local.p2s2",
-    "facepunch.dm98",
     "matt.ttt"
-  ]
+  ],
+  "addon_packages": []
 }
