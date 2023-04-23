@@ -1,6 +1,6 @@
 {
   "Title": "Crossfire",
-  "Type": "map",
+  "Type": "content",
   "Org": "shishkabob",
   "Ident": "crossfire",
   "Tags": "",
@@ -10,6 +10,8 @@
   "ResourcePaths": null,
   "HasCode": false,
   "CodePath": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
   "Metadata": {
     "ProjectTemplate": null,
     "GameSupport": [
