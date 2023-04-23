@@ -1,0 +1,31 @@
+{
+  "cloud_packages": [],
+  "game_packages": [
+    "shishkabob.hls2"
+  ],
+  "addon_packages": [],
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Black Mesa Inbound",
+      "Type": "map",
+      "Org": "shishkabob",
+      "Ident": "hls2_c1p0",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "campiagn/hls2_c1p0/hls2_c1p0.vmap",
+        "GameSupport": [
+          "shishkabob.hls2"
+        ]
+      }
+    }
+  }
+}

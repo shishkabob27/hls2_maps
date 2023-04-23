@@ -1,0 +1,30 @@
+{
+  "cloud_packages": [],
+  "game_packages": [
+    "shishkabob.hls2"
+  ],
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Blast Pit",
+      "Type": "map",
+      "Org": "shishkabob",
+      "Ident": "hls2_c6p0",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "campiagn/hls2_c6p0/hls2_c6p0.vmap",
+        "GameSupport": [
+          "shishkabob.hls2"
+        ]
+      }
+    }
+  }
+}
