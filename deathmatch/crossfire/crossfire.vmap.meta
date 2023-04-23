@@ -20,7 +20,7 @@
         "shishkabob.hls2"
       ],
       "Metadata": {
-        "SingleAssetSource": "maps/crossfire.vmap",
+        "SingleAssetSource": "deathmatch/crossfire/crossfire.vmap",
         "GameSupport": [],
         "Summary": "HL:DM Crossfire. Ported from Half-Life: Source",
         "Description": "HL:DM Crossfire. Ported from Half-Life: Source",
