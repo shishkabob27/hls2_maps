@@ -1,0 +1,32 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Crossfire",
+      "Type": "map",
+      "Org": "shishkabob",
+      "Ident": "crossfire",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "shishkabob.hls2#13547",
+        "matt.ttt",
+        "shishkabob.hls2"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "deathmatch/crossfire/crossfire.vmap",
+        "GameSupport": [],
+        "Summary": "HL:DM Crossfire. Ported from Half-Life: Source",
+        "Description": "HL:DM Crossfire. Ported from Half-Life: Source",
+        "Public": true,
+        "ReplaceTags": "1998 deathmatch classic halflife valve goldsrc port"
+      }
+    }
+  }
+}
