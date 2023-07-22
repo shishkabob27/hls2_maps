@@ -1,5 +1,6 @@
 {
   "publish": {
+    "Allowed": true,
     "Enabled": true,
     "ProjectConfig": {
       "Title": "Crossfire",
@@ -10,18 +11,23 @@
       "Schema": 0,
       "HasAssets": false,
       "AssetsPath": null,
-      "ResourcePaths": null,
+      "Resources": null,
+      "MenuResources": null,
       "HasCode": false,
       "CodePath": null,
       "PackageReferences": [],
       "EditorReferences": [
         "shishkabob.hls2#13547",
         "matt.ttt",
-        "shishkabob.hls2"
+        "shishkabob.hls2",
+        "facepunch.dm98#16591",
+        "facepunch.dm98"
       ],
       "Metadata": {
-        "SingleAssetSource": "deathmatch/crossfire/crossfire.vmap",
-        "GameSupport": [],
+        "SingleAssetSource": "maps/deathmatch/crossfire/crossfire.vmap",
+        "GameSupport": [
+          "shishkabob.hls2"
+        ],
         "Summary": "HL:DM Crossfire. Ported from Half-Life: Source",
         "Description": "HL:DM Crossfire. Ported from Half-Life: Source",
         "Public": true,
