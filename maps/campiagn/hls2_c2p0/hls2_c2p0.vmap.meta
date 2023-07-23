@@ -1,5 +1,6 @@
 {
   "publish": {
+    "Allowed": true,
     "Enabled": true,
     "ProjectConfig": {
       "Title": "Anomalous Materials",
@@ -14,12 +15,16 @@
       "MenuResources": null,
       "HasCode": false,
       "CodePath": null,
-      "PackageReferences": [],
+      "PackageReferences": [
+        "duccsoft.simple_mirror"
+      ],
       "EditorReferences": [
-        "shishkabob.hls2"
+        "shishkabob.hls2",
+        "facepunch.glass_a#19946",
+        "duccsoft.simple_mirror#16032"
       ],
       "Metadata": {
-        "SingleAssetSource": "campiagn/hls2_c2p0/hls2_c2p0.vmap",
+        "SingleAssetSource": "maps/campiagn/hls2_c2p0/hls2_c2p0.vmap",
         "GameSupport": [
           "shishkabob.hls2"
         ]
