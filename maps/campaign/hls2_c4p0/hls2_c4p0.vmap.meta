@@ -1,0 +1,29 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Office Complex",
+      "Type": "map",
+      "Org": "shishkabob",
+      "Ident": "hls2_c4p0",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "shishkabob.hls2"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "campiagn/hls2_c4p0/hls2_c4p0.vmap",
+        "GameSupport": [
+          "shishkabob.hls2"
+        ]
+      }
+    }
+  }
+}

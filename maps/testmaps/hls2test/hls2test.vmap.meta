@@ -1,6 +1,28 @@
 {
-  "cloud_packages": [],
-  "game_packages": [
-    "shishkabob.hls2"
-  ]
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "hls2test",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "hls2test",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.glass_a#19946",
+        "shishkabob.hls2"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/testmaps/hls2test/hls2test.vmap"
+      }
+    }
+  }
 }

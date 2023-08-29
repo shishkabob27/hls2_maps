@@ -1,0 +1,30 @@
+{
+  "cloud_packages": [],
+  "game_packages": [
+    "shishkabob.hls2"
+  ],
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "\u0022We\u0027ve Got Hostiles\u0022",
+      "Type": "map",
+      "Org": "shishkabob",
+      "Ident": "hls2_c5p0",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "campiagn/hls2_c5p0/hls2_c5p0.vmap",
+        "GameSupport": [
+          "shishkabob.hls2"
+        ]
+      }
+    }
+  }
+}

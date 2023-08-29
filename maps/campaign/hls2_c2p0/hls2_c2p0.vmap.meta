@@ -1,0 +1,32 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Anomalous Materials",
+      "Type": "map",
+      "Org": "shishkabob",
+      "Ident": "hls2_c2p0",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "shishkabob.hls2",
+        "facepunch.glass_a#19946",
+        "shishkabob.hls2-rewrite#local"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/campiagn/hls2_c2p0/hls2_c2p0.vmap",
+        "GameSupport": [
+          "shishkabob.hls2"
+        ]
+      }
+    }
+  }
+}
